@@ -123,3 +123,11 @@ The score is calculated per 100g/100ml:
 - **Frontend:** React 18
 - **Data source:** Open Food Facts (free, open database)
 - **Barcode scanning:** Quagga.js (in-browser camera)
+
+
+# Output 
+<img width="1551" height="967" alt="image" src="https://github.com/user-attachments/assets/0c0e8cc9-bb15-443d-b6f9-c6686cc7a7e8" />
+
+<img width="1025" height="712" alt="image" src="https://github.com/user-attachments/assets/e4e0110f-4c56-4daa-9d29-fbd38f667e82" />
+
+
